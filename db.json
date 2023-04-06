@@ -8,5 +8,15 @@
             "name":"pencile",
             "price":5
         }
+    ],
+    "users":[
+        {
+            "name":"user1",
+            "userID":"user1Id"
+        },
+        {
+            "name":"user2",
+            "userID":"user2Id"
+        }
     ]
 }
